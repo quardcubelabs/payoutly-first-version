@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Payoutly stylized P logo inside the launcher boundaries -->
+    <!-- Left & Top Outer Curve (White) -->
+    <path
+        android:pathData="M 34,74 L 34,42 C 34,34 42,34 45,34 L 74,34"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="9"
+        android:strokeLineCap="square"/>
+    <!-- Right & Bottom Outer Curve (Lime Green) -->
+    <path
+        android:pathData="M 74,45 L 74,74 C 74,78 66,78 62,78 L 34,78"
+        android:strokeColor="#C5F531"
+        android:strokeWidth="9"
+        android:strokeLineCap="square"/>
+    <!-- Center Square (White) -->
+    <path
+        android:pathData="M 46,46 h 16 v 16 h -16 z"
+        android:fillColor="#FFFFFF"/>
+</vector>

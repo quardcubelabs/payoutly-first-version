@@ -1,0 +1,6 @@
+{
+  "name": "Payoutly",
+  "description": "An intelligent financial tracker with automated receipt scanning, budget planning, multi-currency support, and insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
